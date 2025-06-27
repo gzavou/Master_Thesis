@@ -1,2 +1,2 @@
 # Master_Thesis
-Augmenting phenotype prediction for HD leveraging gLMs
+Augmenting phenotype prediction models  leveraging a genomic large language model
